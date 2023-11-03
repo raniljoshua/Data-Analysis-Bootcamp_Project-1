@@ -96,7 +96,7 @@ year,make,model,price,VClass
 2023,Aston Martin,Vantage V12 Roadster,168180,Two Seaters
 2023,Audi,A3 Sedan Premium 40 TFSI quattro,37400,Subcompact Cars
 2023,Audi,A3 Sedan Premium Plus 40 TFSI quattro,37400,Subcompact Cars
-2023,Audi,A4 Avant,45900,Small Wagons
+2023,Audi,A4 Avant,45900,Small Station Wagons
 2023,Audi,A6 Premium Plus 45 TFSI quattro,55900,Midsize Cars
 2023,Audi,Q3 Sportback,62020,Small Sport Utility Vehicle 4WD
 2023,Audi,Q4 40 e-tron Premium Plus,90800,Small Sport Utility Vehicle 4WD
@@ -113,7 +113,7 @@ year,make,model,price,VClass
 2023,Audi,R8 V10 GT RWD,225000,Two Seaters
 2023,Audi,RS E-Tron GT Special Edition,179900,Subcompact Cars
 2023,Audi,RS3,58900,Subcompact Cars
-2023,Audi,RS4 Avant competition,87320,Small Wagons
+2023,Audi,RS4 Avant competition,87320,Small Station Wagons
 2023,Audi,RS6 Avant Performance,118900,Midsize Wagon
 2023,Audi,RS7 Sportback,120900,Midsize Cars
 2023,Audi,S6 2.9T Premium quattro,73700,Midsize Cars
@@ -168,7 +168,7 @@ year,make,model,price,VClass
 2023,Bentley,Mulliner Batur,1950000,
 2023,BMW,3.0 CSL Coupe,750000,Subcompact Cars
 2023,BMW,4 Series M440i Gran Coupe,57450,Subcompact Cars
-2023,BMW,5 Series Hybrid,56400,Mid
+2023,BMW,5 Series Hybrid,56400,Midsize Cars
 2023,BMW,530e Plug-In Hybrid,56400,Midsize Cars
 2023,BMW,530i xDrive,57100,Midsize Cars
 2023,BMW,Alpina B5 GT Sedan,156890,Midsize Cars
@@ -256,8 +256,8 @@ year,make,model,price,VClass
 2023,Cadillac,XT6,49000,Small Sport Utility Vehicle 2WD
 2023,Cadillac,XT6 Premium,53990,Small Sport Utility Vehicle 2WD
 2023,Chevrolet,Blazer 2LT AWD,36100,Small Sport Utility Vehicle 4WD
-2023,Chevrolet,Bolt EV 65kWh,32500,Small Wagons
-2023,Chevrolet,Bolt EV 66kWh,37500,Small Wagons
+2023,Chevrolet,Bolt EV 65kWh,32500,Small Station Wagons
+2023,Chevrolet,Bolt EV 66kWh,37500,Small Station Wagons
 2023,Chevrolet,Camaro 1LT Coupe,26900,Subcompact Cars
 2023,Chevrolet,Camaro 1SS Convertible,45900,Subcompact Cars
 2023,Chevrolet,Camaro 1SS Coupe,39900,Subcompact Cars
@@ -415,8 +415,8 @@ year,make,model,price,VClass
 2023,Ford,Mustang Mach-E Premium,54970,Subcompact Cars
 2023,Ford,Mustang Mach-E SR,46000,Subcompact Cars
 2023,Ford,Mustang Mach-E SR AWD,49000,Subcompact Cars
-2023,Ford,Ranger LARIAT,35500,Small Pick
-2023,Ford,Ranger Wildtrak X,51000,Small Pick
+2023,Ford,Ranger LARIAT,35500,Small Pickup Trucks
+2023,Ford,Ranger Wildtrak X,51000,Small Pickup Trucks
 2023,Ford,Shelby Mustang Mach-E GT,65400,Subcompact Cars
 2023,Ford,Transit Passenger Van,50130,Van
 2023,Ford,Transit Trail Camper Van 250,65970,Van
@@ -908,7 +908,7 @@ year,make,model,price,VClass
 2023,Mercedes,Benz EQA SUV,55300,Small Sport Utility Vehicle 4WD
 2023,Mercedes,Benz GLA-Class SUV,37500,Small Sport Utility Vehicle 4WD
 2023,Mercedes,Benz GLB Class,39800,Small Sport Utility Vehicle 4WD
-2023,Mercedes,Benz S Class,243720,L
+2023,Mercedes,Benz S Class,243720,Large Cars
 2023,Mercedes,EQA 300 4MATIC,57400,Small Sport Utility Vehicle 4WD
 2023,Mercedes,EQA 350 4MATIC,60280,Small Sport Utility Vehicle 4WD
 2023,Mercedes,EQS 350,102310,Standard Sport Utility Vehicle 4WD
