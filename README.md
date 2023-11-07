@@ -17,8 +17,6 @@ There are many factors that contribute to the cost of a vehicle, but during and 
   
     o	 Project 1 Conclusion Summary.docx file contains the overview summary, Overview of Data Collection, Exploration, and Cleanup Process, analysis results, and next steps.
  
-    o	Project_1_vehicle_affordability.pptx file contains slide deck for project presentation.
- 
     o	Combined_vehicle_data.csv file contains vehicle information by year, make, model, price and VClass were pulled from the EPA, Office of Energy Efficiency. 
  
     o	Prices_clean.csv file contains clean vehicle information without missing data from original vehicles.csv file.
@@ -35,6 +33,10 @@ There are many factors that contribute to the cost of a vehicle, but during and 
  
     o	Figures folder contains save png. for the analysis charts.
 
+
+
 •	API reference: Documentation for the Census Data API can be found here.
 
 •	Project Members: Paris Jones, Matt Jackson, Ranil Joshua, and Lillian Ruelas-Thompson
+
+Link to PowerPoint Presentation: https://1drv.ms/p/s!AkAAlkL4f3jTm2dLBGPteDWIAc2R
